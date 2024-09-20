@@ -1,3 +1,5 @@
+In this project, I applied data science skills using Python to clean, transform, and analyze multiple datasets:
+
 •	Situation: Tasked with analysing and manipulating data across multiple datasets using Python to demonstrate data science skills.
 •	Task: Perform data cleaning, transformation, merging, and analysis using libraries like NumPy, Pandas, and Matplotlib.
 •	Action: Created data frames from CSV files; handled missing values using running averages; split and transformed columns; joined data frames; calculated bonuses; adjusted designation levels; and visualized data.
